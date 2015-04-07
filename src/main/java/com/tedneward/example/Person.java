@@ -19,6 +19,7 @@ public class Person implements Comparable {
     name = n;
     age = a;
     salary = s;
+    ssn = "";
     nPersons++;
   }
 
